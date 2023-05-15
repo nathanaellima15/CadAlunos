@@ -18,4 +18,19 @@ proposta de construir sistema de informação para cadastro dos alunos:
 - nome mae,  
 - grau escolaridade. 
 
-
+ ``` 
+classDiagram
+ class Aluno{
+    +String Nome,  
+    +String sexo,  
+    +String endereco,  
+    +String cidade, 
+    +String estado, 
+    +int CEP,  
+    +int telefone,  
+    +int DayNascimento,  
+    +int RG,  
+    +String NomePai,  
+    +String NomeMae,  
+    +int GrauEscolar.
+ }
