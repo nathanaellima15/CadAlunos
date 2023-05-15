@@ -18,7 +18,7 @@ proposta de construir sistema de informação para cadastro dos alunos:
 - nome mae,  
 - grau escolaridade. 
 
- ``` M 
+```Mermaid   
 classDiagram
  class Aluno{
     +String Nome,  
