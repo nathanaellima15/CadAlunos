@@ -1,7 +1,7 @@
 # CadAlunos
 app para cadastro de alunos
 
-##fase 1
+###fase 1
 
 proposta de construir sistema de informação para cadastro dos alunos: 
 
@@ -18,7 +18,7 @@ proposta de construir sistema de informação para cadastro dos alunos:
 - nome mae,  
 - grau escolaridade. 
 
-```Mermaid   
+```mermaid   
 classDiagram
  class Aluno{
     +String Nome,  
