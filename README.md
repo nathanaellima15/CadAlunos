@@ -18,7 +18,7 @@ proposta de construir sistema de informação para cadastro dos alunos:
 - nome mae,  
 - grau escolaridade. 
 
- ``` 
+ ``` M 
 classDiagram
  class Aluno{
     +String Nome,  
@@ -34,3 +34,4 @@ classDiagram
     +String NomeMae,  
     +int GrauEscolar.
  }
+ ```
