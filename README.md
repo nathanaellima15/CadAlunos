@@ -1,7 +1,7 @@
 # CadAlunos
 app para cadastro de alunos
 
-###fase 1
+### Fase 1
 
 proposta de construir sistema de informação para cadastro dos alunos: 
 
