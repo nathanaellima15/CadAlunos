@@ -35,3 +35,13 @@ classDiagram
     +int GrauEscolar.
  }
  ```
+
+## Fase 2
+
+Atribuição de valores as variaveis
+
+Usuário entra com valores para as variáveis
+
+Cadastro de 50 alunos, significa repetir o algoritimo de entrada de dados 50 vezes
+
+
